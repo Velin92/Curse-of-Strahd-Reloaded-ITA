@@ -1097,3 +1097,586 @@ Un giocatore che tratti Pidlwick II con gentilezza e riesca in una prova di Cari
 > Se il giocatore lo fa, Pidlwick II tenta poi di spingerlo giù per le scale come descritto in <span class="citation">Pidlwick II (p. 73)</span>. Un giocatore che fallisce il tiro salvezza su Destrezza cade per trenta metri di scale prima di cadere attraverso la parete di mattoni murata che blocca l'accesso a <span class="citation">K48. Scala Laterale (p. 70)</span>, subendo danni come descritto in <span class="citation">K59. Vetta della Torre Alta (p. 73)</span>. Che il giocatore abbia successo o fallisca, Pidlwick II scompare immediatamente alla vista, lasciando dietro di sé un flebile suono di metallo tintinnante che suona quasi come una risata. Il suono svanisce presto nel silenzio.
 >
 > Una volta che Pidlwick è scomparso e il suono del suo stesso meccanismo a orologeria è sparito, un giocatore che torna nella <span class="citation">K50. Camera degli Ospiti (p. 70)</span> può udire che il suono dell'orologio della camera degli ospiti è più sottile e meno risonante degli altri livelli. (Ciò è causato dalla presenza del gancio, che smorza il suono del meccanismo interno dell'orologio.) Un giocatore che poi esamina l'orologio trova automaticamente il vano nascosto.
+## O8d. Il Quarto Livello
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K49, K50, K51 e K53.</em></span>
+
+La botola conduce a una copia della suite degli ospiti in gran parte come descritta in <span class="citation">K49. Salotto (p. 70)</span>, <span class="citation">K50. Camera degli Ospiti (p. 70)</span> e <span class="citation">K51. Guardaroba (p. 70)</span>. Quest'area appare un po' fatiscente, ma priva di gran parte della sporcizia e dell'età che caratterizzava i livelli superiori. Inoltre, la porta che conduce a <span class="citation">K49. Salotto (p. 70)</span> è priva dell'ornato lucchetto dorato del [[#O8a. Il Primo Livello]].
+
+Invece di aprirsi nel guardaroba, la porta del guardaroba nella suite degli ospiti si apre su una parete di pietra vuota. Quando la porta del guardaroba viene aperta per la prima volta, le finestre sud-occidentali del Salotto si spalancano, permettendo alla tempesta di ululare all'interno e rivelando una copia del tetto del castello, in gran parte come descritto in <span class="citation">K53. Tetto (p. 71)</span>. Tuttavia, il resto del castello è assente, lasciando i tetti circondati solo da un infinito vuoto nebbioso. Quando un personaggio guarda per la prima volta fuori dalla finestra, leggere:
+
+<div class="description">
+<p>La finestra si apre su un lungo tetto scuro avvolto in vorticose nebbie. La pioggia si abbatte sul tetto cedevole e inclinato mentre i lampi illuminano i gargoyle appollaiati sui picchi terminali del tetto, i loro sguardi orrendi per sempre fissi sul buio e infinito abisso sottostante. Sul lato opposto del tetto, un piccolo, buio e aperto armadio si trova tranquillo su un parapetto in mezzo alla tempesta.</p>
+</div>
+
+Un personaggio che tenta di attraversare il tetto deve effettuare una prova di Destrezza (Acrobatica) con CD 10. Se la prova ha successo, il personaggio si muove a metà velocità attraverso il tetto. Con un risultato della prova di 6-9, il personaggio non guadagna né perde terreno; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti, cadendo di 4,5 metri su una sporgenza che corre sotto il bordo del tetto. Per risalire al tetto dalla sporgenza, un personaggio deve riuscire in una prova di Forza (Atletica) con CD 15.
+
+Quando tutti i giocatori sono usciti dalla finestra, sei **sciami di pipistrelli** scendono ad attaccare qualsiasi personaggio che non abbia ancora raggiunto il lato opposto. I personaggi hanno svantaggio alle prove effettuate per attraversare il tetto mentre condividono uno spazio con uno sciame di pipistrelli. Se un personaggio si sta concentrando su un incantesimo che consente il volo, tre **sciami di pipistrelli** attaccano quel personaggio simultaneamente, sperando di spezzare la sua concentrazione.
+
+All'inizio del ventesimo conteggio dell'iniziativa del primo round dopo che gli **sciami di pipistrelli** scendono, un **drago nero adulto** comincia a braccolare i giocatori da <span class="citation">K47. Ritratto di Strahd (p. 68)</span>. Leggere:
+
+<div class="description">
+<p>Un rombo profondo riverbera attraverso la muratura del castello, il tetto che trema mentre le tegole tremano e scivolano giù nell'abisso infinito sottostante. Un coro di mille urla echeggia in lontananza, ma si avvicina lentamente.</p>
+<p>Qualcosa di enorme sbatte contro la pietra del pianerottolo fuori dalla suite degli ospiti. Mentre guardate, una massiccia, artigliata, mano rettiliana si arriccia lentamente intorno allo stipite, il legno che scricchiola mentre la pietra si sgretola sotto di essa.</p>
+</div>
+
+Il drago è una rappresentazione simbolica di Rahadin, che serviva da guardiano delle donne che Strahd attirava e intrappolava nel castello. Qualsiasi creatura che abbia precedentemente udito il ***coro della morte*** di Rahadin riconosce che le urla assomigliano alla stessa manifestazione.
+
+Apportare le seguenti modifiche alle statistiche del drago:
+
+* Una creatura che fallisce il suo tiro salvezza contro la caratteristica ***presenza terrificante*** del drago di 5 o più è paralizzata fino alla fine del suo turno successivo.
+* Una creatura che fallisce il suo tiro salvezza contro il ***soffio acido*** del drago non subisce danni. Al contrario, l'acido si trasforma in un groviglio contorcente di catene d'oro incastonate di gemme, che immobilizzano il bersaglio fino alla fine del suo turno successivo. Una creatura che riesce nel suo tiro salvezza ha le gambe parzialmente avvolte dalle catene, ed è rallentata fino alla fine del suo turno successivo. (Una creatura rallentata deve spendere 1 piede extra di movimento per ogni piede che percorre usando la sua velocità, concede vantaggio ai tiri per colpire contro di essa, e ha svantaggio ai tiri salvezza su Destrezza.)
+* Il drago non può usare azioni leggendarie.
+
+Una creatura intrappolata dalle catene del drago nota che non sono catene del tutto, ma migliaia di anelli d'oro intrecciati, braccialetti e collane. Ogni set di catene ha CA 15, 20 punti ferita, immunità ai danni perforanti, psichici e da veleno, e vulnerabilità ai danni da fuoco, e può essere spezzato con una prova di Forza con CD 15 riuscita.
+
+Il drago, che agisce al conteggio 0 dell'iniziativa di ogni round, agisce come segue:
+
+**Al suo primo turno**, usa la sua caratteristica ***presenza terrificante***, ma non si muove attraverso la porta.
+
+**Al suo secondo turno**, comincia a spingersi attraverso la porta della suite degli ospiti, poi usa il suo ***soffio acido***, colpendo qualsiasi giocatore a meno di metà strada attraverso il tetto. Leggere:
+
+<div class="description">
+<p>Un penetrante coro di urla si accumula mentre una mostruosa testa rettiliana dalle squame nere si spinge nella suite, il cranio da solo largo quanto e mezzo alto quanto il vano della porta. Corna che assomigliano a orecchie elfiche appuntite spuntano dai lati della sua testa, e i suoi occhi brillano di crudele e malefica determinazione.</p>
+<p>Lentamente, comincia a spingere le sue ampie e muscolose spalle attraverso il vano della porta della suite degli ospiti, la vecchia muratura che scricchiola sotto la sua pesante massa. Mentre lo fa, il suo collo serpentino si avvolge, il suo petto che si gonfia grottescamente mentre le sue squame si stirano e si dilatano.</p>
+<p>Un ringhio gutturale si accumula in profondità nella sua gola, che si solleva a un ruggito assordante mentre la mascella della bestia si spalanca, rivelando fila dopo fila di denti acuti come aghi. Un torrente di acido viola-nero erutta dalle fauci del drago, riempiendo l'aria di un acre e caustico fetore.</p>
+</div>
+
+**Al suo terzo turno**, il drago entra nel salotto e ruggisce, frantumando il vetro in tutte le finestre rivolte a ovest. Se il suo ***soffio acido*** si è ricaricato, lo usa di nuovo; altrimenti, tenta di spingersi attraverso le finestre, poi di avanzare sul tetto finché non raggiunge un bersaglio per il suo ***attacco multiplo***, preferendo avvicinarsi a qualsiasi personaggio caduto sulla sporgenza sotto il tetto.
+
+Il guardaroba sul lato opposto del tetto è una copia del guardaroba in <span class="citation">K51. Guardaroba (p. 70)</span>, senza però il mantello appeso al gancio. Un giocatore che sale attraverso la botola emerge in <span class="citation">K47. Ritratto di Strahd (p. 68)</span> nella sezione corrispondente del [[#O8e. Il Quinto Livello]]. Il drago non può seguire i giocatori attraverso la botola.
+## O8e. Il Quinto Livello
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K49 e K50.</em></span>
+
+Quest'area è in gran parte come descritta in <span class="citation">K49. Salotto (p. 70)</span> e <span class="citation">K50. Camera degli Ospiti (p. 70)</span>. Tuttavia, la pietra del castello è luminosa, pulita e appena intagliata, con i suoi mobili immacolati e di nuova fattura. Inoltre, la porta che conduce a <span class="citation">K49. Salotto (p. 70)</span> è priva dell'ornato lucchetto dorato del [[#O8a. Il Primo Livello]].
+
+Un personaggio che si avvicina alla camera degli ospiti ode il suono dei quieti singhiozzi di una donna provenire dall'interno. Quando un giocatore entra per la prima volta nella camera degli ospiti, leggere:
+
+<div class="description">
+<p>Una giovane donna è seduta sopra il letto. Indossa una semplice camicia di lana bianca con un grembiule pulito annodato attorno alla vita, e i suoi arruffati capelli castani le cadono sul viso. Tiene le gambe strette al petto, la testa sepolta nelle ginocchia mentre grandi singhiozzi sconvolgono il suo corpo. Sembra stringere qualcosa in una delle mani.</p>
+</div>
+
+Se un giocatore parla o interagisce in altro modo con la donna, leggere:
+
+<div class="description">
+<p>I singhiozzi della donna si acquietano, e sbircia su di voi sopra le ginocchia. I suoi occhi sono rossi e gonfi, le sue guance lentigginose segnate dalle lacrime. Ora potete vedere che il lato destro del colletto del suo vestito bianco è macchiato di un rosso scuro e umido, e due cremisi ferite da puntura segnano il lato del suo collo. Allenta la stretta sull'oggetto nel palmo della sua mano, rivelando una piccola collana a mezzo cuore di argento opaco che pende contro il suo petto.</p>
+</div>
+
+La donna è un ricordo della serva Varushka, com'era nei primi giorni successivi all'arrivo delle Nebbie. Qualsiasi giocatore che abbia visto il cadavere impiccato nel [[#O8a. Il Primo Livello]] la riconosce immediatamente come la stessa donna.
+
+Se interrogata, Varushka può condividere le seguenti informazioni:
+
+* È Varushka, una serva del Castello di Ravenloft. Fino a poco tempo fa, amava il suo lavoro. Tuttavia, ciò è cambiato dieci giorni fa, "il giorno in cui il cielo è diventato rosso, e le nebbie si sono alzate intorno alla valle." Quella mattina, ha visto "una grande oscurità" apparire nella camera del Re von Zarovich e parlargli. "Non mi ha visto, ma io l'ho visto mentre pulivo," sussurra Varushka. "Prima di fuggire, ho udito il sussurro di mille voci—e ho visto un bagliore d'ambra nell'aria davanti a lui."
+* Da allora, il signore del castello ha cominciato a visitarla in privato. "È diventato un mostro," si soffoca Varushka, stringendo le ginocchia più forte al petto. Sebbene non abbia ancora preso libertà fisiche con lei—una piccola grazia per cui è grata—si è nutrito di lei più volte come un pipistrello, prosciugando il sangue dal suo collo. (Se interrogata, Varushka può confermare che il signore del castello è Strahd, anche se è troppo spaventata per pronunciare il suo nome ad alta voce.)
+* Quando il signore si è nutrito di lei per la prima volta, Varushka ha tentato di fuggire dal maniero, terrorizzata per la sua vita. Invece, tuttavia, è stata catturata e rinchiusa nella suite degli ospiti. "Rahadin, il ciambellano, tiene la chiave chiusa nel cassetto del suo ufficio, nelle cantine molto al di sotto di noi," piange. "Non ho alcuna possibilità di fuggire." Se interrogata, Varushka può informare i giocatori che l'ufficio di Rahadin è vicino alle cucine e alla sala dei servi, appena oltre la sala riunioni delle guardie e la sala dei kingsmen. (Varushka si riferisce alle camere descritte in <span class="citation">K67. Sala delle Ossa (p. 78)</span> e <span class="citation">K70. Sala dei Kingsmen (p. 79)</span>.)
+* Da quando Varushka è stata imprigionata, il signore la visita ogni notte per bere a sazietà. Ora crede che non ci sia scampo dal suo destino finale—ma è determinata a negargli l'opportunità di trasformarla in un mostro come lui.
+* La mezza collana era un dono di una sua "cara amica", di nome Katarina. ("Non credo che la rivedrò mai più," singhiozza Varushka.) Se interrogata su Katarina, Varushka appare triste, e condivide solo che era qualcuno con cui Varushka una volta pensava di poter condividere un futuro, sebbene ora sappia che ciò è impossibile.
+
+Varushka non può lasciare la suite degli ospiti. Se le viene mostrata l'uscita, la percepisce come una porta chiusa a chiave; se spinta attraverso di essa, una forza invisibile la ferma dolorosamente dall'uscire.
+
+Varushka non sa perché i giocatori siano apparsi nelle sue stanze, sebbene sia grata per qualsiasi conforto o rassicurazione che possano offrirle. Se i giocatori la trattano con gentilezza e le dicono che desiderano entrare nel suo guardaroba, li avverte che "lui" si trova lì, "sanguinante e affamato, e pieno di dolore e rabbia e odio." (Non c'è dubbio dal tono della sua voce che si stia riferendo a Strahd.) Se i giocatori si muovono per entrare nel guardaroba, li avverte che lui è "giovane, e più debole di quanto potrebbe diventare", ma che è comunque un nemico da temere.
+
+La porta del guardaroba non si apre nel guardaroba della suite degli ospiti. Al contrario, un giocatore che apre la porta del guardaroba emerge in <span class="citation">K23. Ingresso dei Servi (p. 59)</span>, come descritto in [[#O8f. Il Castello Insanguinato]] qui sotto.
+
+> [!abstract]+ **La Collana di Katarina**
+> Se un giocatore offre a Varushka la metà di Katarina della collana in due pezzi ottenuta in [[#O3b. La Guida del Cavaliere]], Varushka è felice di vederla, ma rifiuta di accettarla. "Penso che ci sia qualcun altro che ne ha più bisogno," dice dolcemente, sebbene non sia sicura di chi sia quella persona.
+## O8f. Il Castello Insanguinato
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K23.</em></span>
+
+Un giocatore che passa attraverso la porta del guardaroba nel [[#O8e. Il Quinto Livello]] emerge in <span class="citation">K23. Ingresso dei Servi (p. 59)</span>, com'era il giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>Luce rosso sangue filtra da una finestra sulla parete est. Un grande tavolo pesante si trova al centro del pavimento, per metà coperto da una pozza di inchiostro nero da un calamaio rovesciato. Un pugnale insanguinato è stato conficcato nelle pagine di un libro spesso accanto al calamaio, e il cadavere di un uomo giace accasciato contro la gamba del tavolo proprio sotto di esso.</p>
+<p>C'è una porta scheggiata nella parete nord, e una scalinata nella parete sud che precipita nell'oscurità. Il suono di urla lontane echeggia dallo spazio sottostante.</p>
+</div>
+
+Un giocatore che guarda dalla finestra percepisce null'altro che un infinito vuoto rosso sangue. (La porta da cui i giocatori sono entrati conduce ancora nel guardaroba della suite degli ospiti.)
+
+Il cadavere è vestito con l'armatura a maglia di un soldato. La sua lancia di legno spezzata giace abbandonata sulle pietre sotto il tavolo poco lontano. Un giocatore che esamina il cadavere può capire che la sua gola è stata strappata. Una prova di Saggezza (Medicina) con CD 14 riuscita rivela che la carne dell'uomo è stata dilaniata da lunghi e sottili artigli.
+
+La porta scheggiata conduce nelle Stanze dei Servi (vedi sotto). La scalinata scende alla Cantina del Castello (vedi sotto).
+### Stanze dei Servi
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K24, K34 e K20.</em></span>
+
+Quest'area comprende <span class="citation">K24. Quartieri dei Servi (p. 61)</span>, <span class="citation">K34. Piano Superiore dei Servi (p. 64)</span> e <span class="citation">K20. Cuore del Dolore (p. 59)</span>, ma com'erano nel giorno della morte di Strahd.
+#### Quartieri dei Servi
+Un giocatore che passa attraverso la porta scheggiata emerge in <span class="citation">K24. Quartieri dei Servi (p. 61)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>La luce cremisi dalle finestre illumina una stanza ordinata contenente diversi pezzi di semplici mobili, tra cui una scrivania, una dozzina di sedie di legno e un paio di tavoli decorati con tovaglie a motivi floreali. Una stretta scalinata con un corrimano di legno sale lungo la parete nord.</p>
+</div>
+
+Un giocatore con un punteggio passivo di Saggezza (Percezione) di 10 o superiore nota qualcosa che trema sotto la tovaglia del tavolo lontano. Un giocatore che tira da parte la tovaglia rivela Varushka, che ha gli occhi spalancati, è pallida e visibilmente terrorizzata. Non riconosce i giocatori, e sussurra impaurita loro di "lasciarla sola" e "fuggire per la loro stessa vita."
+
+Varushka non lascerà volontariamente il suo nascondiglio sotto il tavolo. Tuttavia, se interrogata, dice ai giocatori che se stanno cercando il "Capitano Dilisnya", sono troppo tardi—è appena fuggito giù per le scale ed è scappato all'esterno nel cortile del castello. (Varushka si riferisce a [[Storia di Barovia#L'Arrivo delle Nebbie|Leo Dilisnya]], il capitano delle guardie di Strahd. È sconcertata da come sia arrivato nei quartieri superiori dei servi—dato che l'aveva visto l'ultima volta scendere le scale verso la sala dei servi—ma non ha avuto il tempo di pensarci troppo, dato che il mondo intero sembra essere caduto nell'insanità.)
+
+Varushka è troppo terrorizzata per condividere qualsiasi informazione oltre al fatto che "Re Strahd" è impazzito, e sta attualmente seminando il panico nei piani inferiori del castello. "I cieli sono diventati rossi," singhiozza. "Moriremo tutti?"
+#### Piano Superiore dei Servi
+Un giocatore che sale le scale dai [[#Quartieri dei Servi]] emerge in <span class="citation">K34. Piano Superiore dei Servi (p. 64)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>File ordinate di piccole e ordinate brandine rivestono il lato sinistro di questa stanza al piano superiore. Un alto armadio polveroso approssimativamente a forma di bara, con le porte nere dipinte con creature fatate, si trova tra due specchi a figura intera appesi alla parete sud. Uno degli specchi è leggermente storto.</p>
+</div>
+
+Lo specchio nasconde la porta segreta descritta in <span class="citation">K34. Piano Superiore dei Servi (p. 64)</span>. Può essere tirato aperto per rivelare un piccolo armadio vuoto che contiene una scala di legno come descritta in <span class="citation">K34. Piano Superiore dei Servi (p. 64)</span>.
+#### Torre Nord
+Un giocatore che passa attraverso la porta segreta emerge in <span class="citation">K20. Cuore del Dolore (p. 59)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>Un vuoto rosso sangue spalancato circonda i resti distrutti di una torre una volta potente. Sopra di voi, frammenti di pietra polverizzata derivano impotenti nell'aria, segnando la sagoma dove una scala a chiocciola una volta si sarebbe innalzata verso le altezze superiori.</p>
+<p>Sotto di voi, gradini di pietra scura scendono verso un pavimento a mosaico, abbracciando la parete esterna della torre in rovina. Al centro della stanza sottostante, un altro set di scale scende ulteriormente.</p>
+</div>
+
+La mancanza di scale rende impossibile ulteriore ascesa nella torre in rovina. Un giocatore che scende le scale trova che il corridoio che porta a <span class="citation">K13. Corridoio di Accesso al Posto di Torretta (p. 57)</span> è parzialmente crollato, bloccando ulteriori esplorazioni oltre il punto medio del corridoio.
+
+Il secondo set di scale sotto è come descritto in <span class="citation">K20a. Scala della Sala della Torre (p. 59)</span>, e forma un percorso circolare con la [[#Cantina del Castello]] tramite <span class="citation">K71. Quartieri dei Kingsmen (p. 79)</span>.
+### Cantina del Castello
+#### Sala dei Servi
+Un giocatore che scende le scale da <span class="citation">K23. Ingresso dei Servi (p. 59)</span> emerge in <span class="citation">K62. Sala dei Servi (p. 76)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>Un ultimo urlo viene interrotto bruscamente mentre scendete le scale di pietra. Tre cadaveri vestiti di armatura a maglia insanguinata giacciono in questo lungo corridoio. Le porte a sinistra e a destra sono chiuse, sebbene le doppie porte pesanti in fondo al corridoio siano state spalancate. Il busto superiore di un cadavere aggiuntivo è accasciato alla base di una lunga scia di sangue lungo la porta sul lato destro, con le gambe tagliate abbandonate sul pavimento a qualche metro di distanza.</p>
+</div>
+
+Il corridoio oltre la porta sul lato sinistro che porta a <span class="citation">K61. Trappola dell'Ascensore (p. 74)</span> è stato murato ed è attualmente inaccessibile. Le stanze rimanenti in quest'area sono le seguenti:
+
+* ***Cantina dei Vini.*** La cantina dei vini è in gran parte come descritta in <span class="citation">K63. Cantina dei Vini (p. 77)</span>, ma le botti sono fresche e nuove, senza ratti presenti.
+* ***Cucina.*** La cucina è in gran parte come descritta in <span class="citation">K65. Cucina (p. 78)</span>, ma senza odore di decomposizione, senza pentola che bolle sul braciere e con il braciere spento.
+* ***Quartieri del Maggiordomo.*** I quartieri del maggiordomo sono in gran parte come descritti in <span class="citation">K66. Quartieri del Maggiordomo (p. 78)</span>, ma contengono solo un letto ordinato e ben fatto e un cassettone pieno di tuniche, pantaloni e indumenti intimi puliti e stirati.
+#### Sala Riunioni delle Guardie
+Un giocatore che passa attraverso le doppie porte in fondo alla sala dei servi emerge in <span class="citation">K67. Sala delle Ossa (p. 78)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>Emergete dalla porta in una scena di carneficina insanguinata. Pozze rosse coprono il pavimento di quest'area, ulteriormente disseminata da una mezza dozzina di cadaveri spezzati. Grandi tavoli di quercia, segnati e consumati, giacciono sparpagliati come giocattoli per la stanza, il legno frantumato e scheggiato. Sopra le porte orientali è montato il teschio di un drago.</p>
+<p>Una porta è chiusa a sud. A nord, una seconda porta è leggermente socchiusa.</p>
+</div>
+
+Se i giocatori non hanno precedentemente incontrato Strahd, aggiungere:
+
+<div class="description">
+<p>La voce di un uomo ruggisce dall'oltre la porta socchiusa: "Codardo! Traditore! Rivelati, Dilisnya, e potrò concederti una morte rapida come agli altri. Indugia, e farò in modo che la tua sofferenza duri per <em>secoli</em>."</p>
+</div>
+
+La voce è riconoscibile come quella di Strahd, ma più piena di emozione e vita.
+
+Il corridoio oltre la porta meridionale che porta a <span class="citation">K68. Corridoio delle Guardie (p. 79)</span> è stato murato ed è attualmente inaccessibile.
+#### Sala e Quartieri dei Kingsmen
+***Sala dei Kingsmen.*** Un giocatore che passa attraverso la porta socchiusa all'estremità nord della sala riunioni delle guardie, o che entra tramite i quartieri dei kingsmen (vedi sotto), emerge in <span class="citation">K70. Sala dei Kingsmen (p. 79)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>Questa stanza di nove metri per nove è un disastro. Mobili sparsi giacciono in mucchi vicino alle pareti. Cadaveri spezzati e insanguinati sono disseminati sul pavimento, molti che portano armature a piastra accartocciate e schiacciate. Scudi e spade spuntano dalle pareti come se fossero stati conficcati da una forza tremenda.</p>
+<p>Due porte si trovano l'una di fronte all'altra al centro della parete nord e della parete sud. Un arco buio porta attraverso la parete est.</p>
+</div>
+
+Al momento in cui i giocatori arrivano per la prima volta, questa camera è attualmente abitata da un ricordo di Strahd von Zarovich. Se è presente quando i giocatori entrano per la prima volta, leggere:
+
+<div class="description">
+<p>Una figura alta e insanguinata si staglia in mezzo alla carneficina—Strahd. Il suo abbigliamento una volta immacolato è macchiato di chiazze di sangue, spruzzi di viscere che dipingono un macabro tableau sui suoi abiti e sulla sua pelle. La sua carne pallida e quasi traslucida contrasta nettamente con il rosso scuro e gocciolante che macchia le sue mani tremanti, ogni dito terminante in un lungo e insanguinato artiglio. Sotto i capelli intrisi di sangue, i suoi occhi rossi bruciano di un bagliore ferale, le sue narici simili a quelle di un pipistrello che fremono follemente.</p>
+<p>Una guardia ferita si contrae nella stretta di Strahd, poi si immobilizza bruscamente mentre i canini del vampiro affondano in profondità nel suo collo nudo e cremisi. Il sangue fuoriesce dalla gola dell'uomo mentre Strahd beve avidamente, rivoli di sangue che gli scorrono sul petto e sui vestiti.</p>
+</div>
+
+> [!warning]+ **Il Vincolo di Vladimir**
+> Se i giocatori sono stati sottoposti alla caratteristica *vincolo del giuramento* di Vladimir in [[Arco M - Il Maniero del Drago]], sarà ancora in vigore con il ricordo di Strahd in questa scena.
+
+> [!info]+ **Ricordo di Strahd**
+> Questo ricordo di Strahd ha le statistiche descritte in <span class="citation">Strahd von Zarovich (p. 240)</span>, ma senza la caratteristica ***incantesimi***, la caratteristica ***ammaliare***, la caratteristica ***figli della notte*** o qualsiasi azione da covo. Inoltre, invece delle azioni leggendarie, Strahd può compiere fino a tre reazioni per round, ma solo una per turno. (Se Strahd dovesse perdere le sue reazioni, ne perde una invece.) Guadagna anche le seguenti reazioni:
+>
+> * ***Muovere.*** In risposta ai danni subiti da un incantesimo o abilità a distanza, Strahd si muove fino alla sua velocità senza provocare attacchi di opportunità verso l'attaccante.
+> * ***Attacco Senz'Armi.*** In risposta a un personaggio entro 1,5 m che lo colpisce o lo manca con un attacco, Strahd effettua un ***attacco senz'armi***.
+> * ***Morso (Costa 2 Reazioni).*** In risposta a un personaggio ghermito entro 1,5 m che lo attacca, lancia un incantesimo, o tenta di liberarsi dalla presa, Strahd effettua un attacco di ***morso***.
+>
+> Se ridotto a 0 punti ferita, Strahd usa la sua caratteristica ***fuga nebbiosa*** per trasformarsi in una nuvola di nebbia. Si ritira poi attraverso la fessura nella parete descritta in <span class="citation">K63. Cantina dei Vini (p. 77)</span>.
+
+Strahd non nota immediatamente i giocatori che si limitano a spiare nella stanza invece di entrarvi. Inoltre, mentre si trova nell'Incubo, Strahd è in preda alla sete di sangue e folle di rabbia e dolore. In questo stato, ha svantaggio alle prove di Saggezza e Intelligenza, riducendo il suo punteggio passivo di Saggezza (Percezione) a 17.
+
+I giocatori possono tentare di attirare Strahd lontano dalla porta dell'ufficio del ciambellano attraverso mezzi magici o di altro tipo. Se i giocatori non riescono a nascondersi da lui o si rivelano altrimenti, Strahd ringhia: "Ancora traditori? Vi tratterò come ho fatto con l'ultimo—e presto il vostro capobanda si unirà a voi."
+
+Un giocatore che poi informa Strahd dell'ubicazione di Leo Dilisnya e riesce in una prova di Carisma (Persuasione) con CD 20 può convincere Strahd a lasciarli vivere insieme ai loro compagni. Altrimenti, Strahd li attacca a vista, inseguendoli ovunque vadano nel castello. Tuttavia, se i giocatori si ritirano nel [[#O8e. Il Quinto Livello]] e chiudono la porta, Strahd non può seguirli all'interno.
+
+***Quartieri dei Kingsmen.*** Un giocatore che passa attraverso l'arco nella sala dei kingsmen o scende <span class="citation">K20a. Scala della Sala della Torre (p. 59)</span> dalla [[#Torre Nord]] emerge in <span class="citation">K71. Quartieri dei Kingsmen (p. 79)</span>, com'era nel giorno della morte di Strahd quasi quattro secoli fa. Leggere:
+
+<div class="description">
+<p>Questo passaggio buio si estende per sei metri, collegando un arco a ovest con una scala di pietra ascendente a est. A nord e a sud ci sono nicchie di tre metri per tre disseminate di brandine e bei tappeti.</p>
+</div>
+
+Se i giocatori non hanno precedentemente incontrato Strahd, aggiungere:
+
+<div class="description">
+<p>La voce di un uomo ruggisce dall'oltre l'arco: "Codardo! Traditore! Rivelati, Dilisnya, e potrò concederti una morte rapida come agli altri. Indugia, e farò in modo che la tua sofferenza duri per <em>secoli</em>."</p>
+</div>
+
+La voce è riconoscibile come quella di Strahd, ma più piena di emozione e vita.
+#### Ufficio del Ciambellano
+L'ufficio di Rahadin è in gran parte come descritto in <span class="citation">K72. Ufficio del Ciambellano (p. 79)</span>, tranne che Rahadin e il **demone ombra** non sono presenti, e i giocatori che scoprono la porta segreta trovano che è stata murata.
+
+Inoltre, una chiave dorata ornata che corrisponde al motivo del buco della chiave nella camera degli ospiti giace sul tavolo. La chiave sblocca la porta chiusa a chiave del salotto nel [[#O8a. Il Primo Livello]].
+## O8g. Fuggire dall'Incubo
+La prima volta che i giocatori escono dal [[#O8f. Il Castello Insanguinato]] dopo aver ottenuto la chiave della camera degli ospiti, emergono dalla porta del guardaroba direttamente nella camera degli ospiti del [[#O8a. Il Primo Livello]]. Tuttavia, il cadavere di Varushka e il cappio non sono più presenti nel guardaroba.
+
+La prima volta che un giocatore tenta di girare la chiave della camera degli ospiti nell'ornato buco della chiave dorato della porta che porta dal <span class="citation">K49. Salotto (p. 70)</span> a <span class="citation">K47. Ritratto di Strahd (p. 68)</span>, la chiave ruota a metà, poi rimane bloccata nella serratura. Un battito di cuore dopo, punte affilate erompono dal metallo del buco della chiave, costringendo quel giocatore a riuscire in un tiro salvezza su Destrezza con CD 15 o subire 2d4 danni perforanti. L'orologio della camera degli ospiti rintocca poi di nuovo, causando ai giocatori di subire nuovamente gli effetti de **L'Orologio che Rintocca** (vedi sopra).
+
+Un momento dopo che l'orologio rintocca, lo spirito di Varushka appare dietro ai giocatori. Leggere:
+
+<div class="description">
+<p>Il vostro respiro si appanna nell'aria mentre la temperatura precipita, un freddo gelo che si propaga sulle cerniere e sulla maniglia metalliche della porta. Mentre un'ombra cade sul pavimento tappezzato da dietro di voi, potete udire il suono dei bassi e rauchi respiri di una donna proprio sopra la vostra spalla.</p>
+</div>
+
+Qualsiasi giocatore che si volta o è già rivolto verso di lei vede la forma attuale di Varushka. Leggere:
+
+<div class="description">
+<p>Una figura spettrale fluttua nell'aria davanti a voi—una donna. Il suo vestito una volta bianco è macchiato di sangue, i suoi brandelli sdruciti che svolazzano come nastri fantasmatici nell'aria dietro di lei. I suoi capelli sfrecciano in un vento gelido e soprannaturale, i suoi occhi lacrimosi che ardono di rabbia e dolore. Una lunga e grezza cicatrice attraversa la carne sotto il suo mento, appena sopra una cascata di sangue che cola eternamente dalle doppie ferite da puntura che segnano il suo collo. Una collana pende da un sottile cordoncino d'argento attorno al suo collo, tirato così stretto da affondare profondamente nella pelle.</p>
+<p>Stende le mani verso di voi e sussurra rauca: "<em>Nessuno se ne va</em>." In lontananza, l'orologio della camera degli ospiti comincia a rintoccare di nuovo—e una familiare sensazione di intorpidimento comincia a pungere attraverso la carne dei vostri colli.</p>
+</div>
+
+![[Varushka.png]]
+<span class="credit">"Varushka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+Se i giocatori hanno precedentemente ottenuto la collana di Katarina in [[#O3b. La Guida del Cavaliere]], un giocatore che esamina la collana di Varushka la riconosce come la metà corrispondente della coppia.
+
+Una volta che Varushka appare, l'orologio della camera degli ospiti rintocca una volta ogni minuto di gioco, causando ai giocatori di subire nuovamente gli effetti de **L'Orologio che Rintocca** (vedi sopra).
+
+Varushka condivide liberamente di aver preso i giocatori come suoi prigionieri, come ha fatto con tutti coloro che cercano il riposo che le è stato negato. "Potreste aver trovato la chiave dove l'avevo nascosta," ringhia, con le lacrime che le scorrono sulle guance, "ma finché la mia anima indugia qui, non vi lascerò *mai* andare."
+
+Se i giocatori attaccano Varushka, procedere a [[#La Rabbia di Varushka]] qui sotto. Se i giocatori tentano di negoziare con Varushka, procedere invece a [[#Il Dolore di Varushka]].
+### Il Dolore di Varushka
+I giocatori possono tentare di persuadere Varushka a permettere loro di andarsene presentando qualsiasi argomento ragionevole e riuscendo in una prova di Carisma (Persuasione) con CD 10, effettuata con vantaggio se i giocatori hanno confortato il ricordo di Varushka nel [[#O8e. Il Quinto Livello]]. La prova ha successo automaticamente se i giocatori informano Varushka che tengono la metà di Katarina della sua collana.
+
+Che la prova abbia successo o fallisca, leggere:
+
+<div class="description">
+<p>La stessa stanza sembra piegarsi e contorcersi intorno allo spirito, le pareti che sanguinano ombre che si protendono come dita per abbracciarla. Mentre guardate, un alone di oscurità fredda e umbrale si forma intorno a lei, e i suoi occhi si oscurano fino a diventare un nero profondo come il vuoto.</p>
+</div>
+
+Varushka controbatte poi con rabbia all'argomento dei giocatori. (Per esempio, se i giocatori le hanno mostrato la collana di Katarina, insiste che stanno mentendo, e la collana è falsa.) Se la prima prova di Carisma (Persuasione) dei giocatori aveva avuto successo, Varushka è incerta riguardo alla sua risposta, e un giocatore con un punteggio passivo di Saggezza (Intuizione) di 13 o superiore riconosce che la sua sfida è tiepida e intrisa di dubbio su se stessa.
+
+Mentre Varushka controbatte all'argomento dei giocatori, se qualsiasi giocatore ha un punteggio passivo di Saggezza (Percezione) di 13 o superiore, aggiungere:
+
+<div class="description">
+<p>Mentre osservate l'alone di ombre che la circonda, notate che sembra essere non una singola ombra, ma un'assemblea di innumerevoli sagome amorfe e indistinte che si sovrappongono. Sebbene Varushka non faccia alcun gesto per riconoscerle o notarle, susurrano incessantemente nelle sue orecchie, le loro voci fredde e vuote che sembrano oscurare ulteriormente la stanza a ogni parola.</p>
+</div>
+
+Un giocatore che interroga Varushka o riesce in una prova di Saggezza (Intuizione) con CD 13 apprende che Varushka non percepisce le sagome né si rende conto che sono lì. Un giocatore che si avvicina a Varushka o che riesce in una prova di Saggezza (Percezione) con CD 15 può distinguere alcune parole e frasi dalla cacofonia di sussurri:
+
+* "Te ne andranno, proprio come lei."
+* "Perché dovrebbero sfuggire al tuo destino?"
+* "Ti ha tolto così tanto. Questo è ciò che ti è dovuto."
+
+> [!lore]+ **Sussurri Oscuri**
+> Le ombre sussurranti sono una manifestazione delle [[Tradizioni di Barovia#Forze Oscure|Forze Oscure]]. Ansiose di rimuovere Ireena Kolyana dall'influenza e dalla protezione dei giocatori, hanno cercato di abbracciare lo spirito di Varushka per dissuaderla dal permettere ai giocatori di fuggire dal suo Incubo.
+
+I giocatori possono tentare nuovamente di persuadere Varushka a liberarli presentando qualsiasi argomento ragionevole e riuscendo in una prova di Carisma (Persuasione) con CD 15. La prova viene effettuata con svantaggio se i giocatori hanno fallito la prima prova di Carisma (Persuasione). Altrimenti, la prova viene effettuata con vantaggio se gli argomenti dei giocatori confutano direttamente i sussurri delle Forze Oscure, e ha successo automaticamente se i giocatori presentano a Varushka il biglietto di Katarina o il suo contenuto.
+
+Se i giocatori riescono in questa prova, Varushka rinuncia lacrimosamente alla sua presa soprannaturale sulla chiave e permette ai giocatori di partire. Se invece i giocatori falliscono la prova, Varushka attacca. (Vedi [[#La Rabbia di Varushka]] qui sotto.)
+
+Se i giocatori offrono a Varushka la collana, lei li ringrazia ma rifiuta di tenerla. Con malinconia, chiede ai giocatori di trovare Katarina se è ancora viva, o di trovare la sua tomba, chiedendo loro di "Custodirla in sua memoria."
+### La Rabbia di Varushka
+<br>
+
+<div class="statblock">
+<h2>Varushka, Serva dell'Incubo</h2>
+<em>Creatura media non morta, caotica malvagia</em>
+<hr>
+<strong>Classe Armatura</strong> 13
+<br>
+<strong>Punti Ferita</strong> 157 (21d8 + 63)
+<br>
+<strong>Velocità</strong> 0 m, volo 18 m (volare librandosi)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
+      <th>INT</th>
+      <th>SAG</th>
+      <th>CAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6 (-2)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>12 (+1)</td>
+      <td>14 (+2)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Tiri Salvezza</strong> Sag +6<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, afferrato, esausto, paralizzato, pietrificato, avvelenato, trattenuto<br>
+<strong>Sensi</strong> Scurovisione 18 m<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Grado di Sfida</strong> 8<br>
+<strong>Bonus di Competenza</strong> +4<br>
+<hr>
+<p><strong><em>Movimento Incorporeo.</em></strong> Varushka può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.
+<p><strong><em>Disperazione Travolgente.</em></strong> Quando Varushka scende a 0 punti ferita, la sua sclera si oscura e un mantello di nebbia vorticosa e ombre sussurranti la circonda. Le sue statistiche vengono poi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio dell'iniziativa non cambia. Il danno in eccesso non si trasferisce alla sua nuova forma, ma mantiene tutte le condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Attacco Multiplo.</em></strong> Varushka usa <strong><em>distorcere la carne</em></strong> due volte. Può sostituire uno o entrambi con <strong><em>animare oggetto minore.</em></strong></p>
+<p><strong><em>Animare Oggetto Minore.</em></strong> Varushka anima un oggetto Piccolo o Medio non danneggiato che può vedere entro 9 m per 1 minuto o finché l'oggetto non viene distrutto. L'oggetto diventa un <strong>oggetto animato minore</strong> (vedi sotto). Agisce sull'iniziativa di Varushka, ma compie il suo turno immediatamente dopo il suo.</p>
+<p><strong><em>Animare Oggetto Maggiore (1/giorno).</em></strong> Varushka anima un oggetto Grande non danneggiato che può vedere entro 9 m per 1 minuto o finché l'oggetto non viene distrutto. L'oggetto diventa un <strong>oggetto animato maggiore</strong> (vedi sotto). Agisce sull'iniziativa di Varushka, ma compie il suo turno immediatamente dopo il suo.</p>
+<p><strong><em>Distorcere la Carne.</em></strong> Varushka costringe una creatura che può vedere entro 9 m a effettuare un tiro salvezza su Carisma con CD 15. In caso di fallimento, il bersaglio subisce 12 (2d8 + 3) danni necrotici e Varushka può causare la distorsione grottesca delle sue braccia o gambe fino all'inizio del suo prossimo turno. (Una creatura con le braccia distorte non può strisciare, effettua attacchi con armi con svantaggio, e deve riuscire in un tiro salvezza su Costituzione con CD 15 ogni volta che tenta di lanciare un incantesimo con componenti somatiche, altrimenti perde l'incantesimo. Una creatura con le gambe distorte cade prona.)</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Liquefazione della Pietra.</em></strong> Varushka trasforma il pavimento intorno a lei entro 1,5 m in sabbie mobili (Guida del Dungeon Master, p. 110) per 1 minuto. Un'area di 1,5 m quadrato trasformata in sabbie mobili in questo modo cessa immediatamente di essere sabbie mobili se nessuna creatura vi affonda.</p>
+<p><strong><em>Taglio di Carta.</em></strong> Varushka strappa le pagine dai libri del Salotto e crea un turbine di carta tagliente centrato su un punto che può vedere entro 9 m. Ogni creatura in un cilindro di raggio 1,5 m e altezza 4,5 m centrato su quel punto deve riuscire in un tiro salvezza su Destrezza con CD 15 o subire 18 (4d8) danni da taglio.</p>
+<p><strong><em>Visione Orrifica (1/giorno).</em></strong> Ogni creatura non morta entro 18 m da Varushka che la può vedere deve riuscire in un tiro salvezza su Saggezza con CD 15 o essere spaventata fino all'inizio del prossimo turno di Varushka. Se il tiro salvezza di un bersaglio fallisce di 5 o più, il bersaglio è anche messo in fuga mentre è spaventato in questo modo. (Una creatura in fuga deve compiere l'azione Scatto e allontanarsi dalla fonte della sua paura per il percorso disponibile più sicuro ad ognuno dei suoi turni, a meno che non ci sia nessun posto dove andare.)</p>
+<h3>Reazioni</h3>
+<p>Varushka può compiere fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione le impedisse di compiere reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Varushka può ripetere il tiro salvezza contro un effetto o una condizione che la colpisce attualmente. (Questa reazione non ha effetto se l'effetto o la condizione originariamente non richiedeva un tiro salvezza fallito.)</p>
+<p><strong><em>Scambio.</em></strong> In risposta all'essere bersaglio di un attacco o incantesimo, o all'essere inserita nell'area di effetto di un incantesimo, Varushka costringe una creatura che può vedere entro 9 m diversa dall'attaccante o dall'incantatore a effettuare un tiro salvezza su Carisma con CD 15. In caso di fallimento, lei e il bersaglio si scambiano di posto, e il bersaglio subisce gli effetti dell'attacco o incantesimo al suo posto.</p>
+<p><strong><em>Adesione.</em></strong> In risposta a un attacco in mischia mancato, Varushka costringe la creatura a effettuare un tiro salvezza su Forza con CD 15. In caso di fallimento, l'arma o l'arto usato nell'attacco rimane aderente a una superficie vicina fino all'inizio del prossimo turno di Varushka.</p>
+<p><strong><em>Eruzione (1/giorno).</em></strong> In risposta all'essere ridotta a 0 punti ferita, Varushka costringe ogni creatura entro 9 m a riuscire in un tiro salvezza su Forza con CD 15 o subire 11 (2d10) danni da forza ed essere spinta di 6 m. Se il bersaglio non può muoversi per l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 1,5 m non percorso e cade prono.</p>
+</div>
+<br>
+
+<div class="statblock">
+<h2>Oggetto Animato Minore</h2>
+<em>Costrutto Piccolo o Medio, non allineato</em>
+<hr>
+<strong>Classe Armatura</strong> 15
+<br>
+<strong>Punti Ferita</strong> 10
+<br>
+<strong>Velocità</strong> 0 m, volo 9 m (volare librandosi)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
+      <th>INT</th>
+      <th>SAG</th>
+      <th>CAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10 (+0)</td>
+      <td>16 (+3)</td>
+      <td>10 (+0)</td>
+      <td>3 (-4)</td>
+      <td>3 (-4)</td>
+      <td>1 (-5)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Immunità ai Danni</strong> veleno, psichico<br>
+<strong>Sensi</strong> visione cieca 9 m, Percezione passiva 6<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +4
+<h3>Azioni</h3>
+<p><strong><em>Attacco Multiplo.</em></strong> L'oggetto effettua due attacchi di <strong><em>percossa</em></strong>.
+<p><strong><em>Percossa.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 a colpire, un bersaglio, gittata 1,5 m. <em>Colpito:</em> 8 (1d10 + 3) danni contundenti e il bersaglio deve riuscire in un tiro salvezza su Forza con CD 14 o cadere prono.</p>
+</div>
+<br>
+
+<div class="statblock">
+<h2>Oggetto Animato Maggiore</h2>
+<em>Costrutto Grande, non allineato</em>
+<hr>
+<strong>Classe Armatura</strong> 15
+<br>
+<strong>Punti Ferita</strong> 20
+<br>
+<strong>Velocità</strong> 0 m, volo 9 m (volare librandosi)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
+      <th>INT</th>
+      <th>SAG</th>
+      <th>CAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18 (+4)</td>
+      <td>8 (-1)</td>
+      <td>10 (+0)</td>
+      <td>3 (-4)</td>
+      <td>3 (-4)</td>
+      <td>1 (-5)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Immunità ai Danni</strong> veleno, psichico<br>
+<strong>Sensi</strong> visione cieca 9 m, Percezione passiva 6<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +4
+<h3>Azioni</h3>
+<p><strong><em>Attacco Multiplo.</em></strong> L'oggetto effettua due attacchi di <strong><em>percossa</em></strong>.
+<p><strong><em>Percossa.</em></strong> <em>Attacco con Arma da Mischia:</em> +8 a colpire, un bersaglio, gittata 1,5 m. <em>Colpito:</em> 15 (2d10 + 4) danni contundenti e il bersaglio deve riuscire in un tiro salvezza su Forza con CD 16 o essere spinto fino a 3 m (a scelta di Varushka). Se il bersaglio entra poi in contatto con una superficie dura o un oggetto pesante, il bersaglio subisce 1d6 danni contundenti per ogni 1,5 m non percorso ed è afferrato dall'oggetto (CD di fuga 16).</p>
+</div>
+
+<br>
+
+<div class="statblock">
+<h2>Varushka, Anima della Disperazione</h2>
+<em>Creatura media non morta, caotica malvagia</em>
+<hr>
+<strong>Classe Armatura</strong> 13
+<br>
+<strong>Punti Ferita</strong> 157 (21d8 + 63)
+<br>
+<strong>Velocità</strong> 0 m, volo 18 m (volare librandosi)
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
+      <th>INT</th>
+      <th>SAG</th>
+      <th>CAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6 (-2)</td>
+      <td>16 (+3)</td>
+      <td>16 (+3)</td>
+      <td>12 (+1)</td>
+      <td>14 (+2)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Tiri Salvezza</strong> Sag +6<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esausto, paralizzato, pietrificato, avvelenato<br>
+<strong>Sensi</strong> Scurovisione 18 m<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Grado di Sfida</strong> 10<br>
+<strong>Bonus di Competenza.</strong> +4<br>
+<hr>
+<p><strong><em>Combattente a Distanza Ravvicinata.</em></strong> Varushka non ha svantaggio ai suoi tiri per colpire a distanza quando si trova a 1,5 m da una creatura ostile.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Varushka può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.
+<h3>Azioni</h3>
+<p><strong><em>Attacco Multiplo.</em></strong> Varushka effettua due attacchi con il suo <strong><em>prosciugamento vitale</em></strong> e/o <strong><em>garrota di nebbia</em></strong>.</p>
+<p><strong><em>Prosciugamento Vitale.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 a colpire, gittata 1,5 m, una creatura. <em>Colpito:</em> 10 (2d6 + 3) danni necrotici e Varushka costringe il bersaglio a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio cade prono e il suo massimo di punti ferita è ridotto di un ammontare pari ai danni subiti. Questa riduzione dura fino a quando il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0.</p>
+<p><strong><em>Garrota di Nebbia.</em></strong> <em>Attacco con Arma a Distanza:</em> +7 a colpire, gittata 9 m, una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni da taglio e il bersaglio deve riuscire in un tiro salvezza su Costituzione con CD 15 o essere sollevato verticalmente di 3 m e rimanere sospeso lì fino all'inizio del prossimo turno di Varushka. Mentre è sospeso, la velocità del bersaglio è 0 e non può parlare né lanciare un incantesimo che include una componente verbale.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Nebbia Vampirica.</em></strong> Tentacoli di nebbia rosso sangue si estrudono da Varushka, toccando ogni creatura entro 1,5 m da lei. Un bersaglio deve riuscire in un tiro salvezza su Costituzione con CD 15 o subire 9 (2d8) danni necrotici e avere svantaggio al prossimo tiro salvezza che effettua prima dell'inizio del prossimo turno di Varushka. Varushka recupera punti ferita pari alla metà dei danni subiti (arrotondati per eccesso), e il massimo di punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti. Questa riduzione dura fino a quando il bersaglio non completa un riposo lungo. Il bersaglio muore se il suo massimo di punti ferita è ridotto a 0.</p>
+<p><strong><em>Sussurri Oscuri.</em></strong> Sussurri dissonanti e dolenti riempiono l'aria intorno a Varushka, costringendo ogni creatura entro 9 m a riuscire in un tiro salvezza su Saggezza con CD 15 o subire 3 (1d6) danni psichici e acquisire svantaggio al primo tiro per colpire o tiro salvezza che effettua prima dell'inizio del prossimo turno di Varushka.</p>
+<h3>Reazioni</h3>
+<p>Varushka può compiere fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione le impedisse di compiere reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Varushka può ripetere il tiro salvezza contro un effetto o una condizione che la colpisce attualmente. (Questa reazione non ha effetto se l'effetto o la condizione originariamente non richiedeva un tiro salvezza fallito.)</p>
+<p><strong><em>Passo Brumoso.</em></strong> In risposta ai danni subiti, Varushka si teletrasporta fino a 9 m in uno spazio non occupato. Può poi effettuare immediatamente un attacco di <strong><em>prosciugamento vitale</em></strong> contro una creatura a portata.
+<p><strong><em>Sussurri Calmanti.</em></strong> In risposta a una creatura che può vedere entro 3 m che la bersaglia con un attacco o incantesimo, Varushka costringe quella creatura a riuscire in un tiro salvezza su Saggezza con CD 15. In caso di fallimento, la creatura subisce 5 (2d4) danni psichici e acquisisce un livello di esaurimento per il minuto successivo. Se la creatura non era già esausta, può ripetere il tiro salvezza alla fine di ognuno dei suoi turni tranne questo, riducendo il suo esaurimento di un livello in caso di successo.
+</div>
+# O9. Il Risveglio
+Che i giocatori placchino Varushka o la sconfiggano, sbloccare e uscire dalla porta della suite degli ospiti nella versione da incubo li fa ridestate nei loro corpi fisici nella suite degli ospiti fisica del Castello di Ravenloft, circa venti minuti prima dell'alba, con tutti i benefici di un riposo lungo. Anche i giocatori morti nel sogno si risvegliano nei loro corpi fisici con tutti i benefici di un riposo lungo. Se tutti i membri del gruppo muoiono all'interno dell'incubo, muoiono nella realtà e non si risvegliano.
+### O9a. L'Ultimo Desiderio di Varushka
+Quando i giocatori si svegliano, Varushka appare loro come un'**ombra** sulla parete della suite degli ospiti. Leggere:
+
+<div class="description">
+<p>L'ombra di una donna appare sulla parete, senza però alcuna fonte che la proietti. La figura è snella, portando le sagome di un abito e grembiule familiari.</p>
+</div>
+
+I giocatori riconoscono l'**ombra** come portante la stessa sagoma di Varushka. Sebbene non possa parlare con i giocatori in questa forma, Varushka può comunicare attraverso semplici cenni e gesti.
+
+Poco dopo essere apparsa ai giocatori, Varushka apre la porta del <span class="citation">K51. Guardaroba (p. 70)</span> e abbassa il gancio, permettendo alla botola di aprirsi. Se interrogata, cerca timidamente di comunicare ai giocatori che desidera che la seguano attraverso la botola.
+
+Se seguita, Varushka guida i giocatori attraverso la botola nella <span class="citation">K55. Sala degli Elementi (p. 72)</span>, poi li conduce attraverso la <span class="citation">K54. Sala Familiare (p. 71)</span> su per la <span class="citation">K48. Scala Laterale (p. 70)</span> verso <span class="citation">K57. Vetta della Torre (p. 72)</span>. Queste camere sono in gran parte come originariamente descritte, ma con le seguenti modifiche:
+
+* ***Sala degli Elementi.*** La Sala degli Elementi contiene una *pozione di fiato ardente* e due *pozioni di guarigione* nascoste tra le bottiglie e i barattoli. Inoltre, non ci sono **streghe baroviane** nella vicina <span class="citation">K56. Calderone (p. 72)</span>, che è invece custodita da quattro **scope dell'attacco animato** appoggiate alla parete. Le scope si animano e attaccano qualsiasi intruso a vista, ma non inseguono i giocatori che fuggono oltre la Sala Familiare nella <span class="citation">K48. Scala Laterale (p. 70)</span>.
+* ***Sala Familiare.*** Non ci sono **gatti** in questa stanza.
+
+L'**ombra** di Varushka si ferma a metà della <span class="citation">K48. Scala Laterale (p. 70)</span> e indica una sezione della parete ad circa sessanta centimetri dal pavimento. Un giocatore che esamina quest'area trova che uno dei mattoni è allentato, permettendo di rimuoverlo dalla parete. Il mattone è cavo all'interno, e contiene un rotolo di pergamena, una piccola borsa di raso e una copia della carta dei Tarocchi del *Veggente*.
+
+La pergamena è un biglietto scritto in lettere semplici e grandi. Si legge: "Quando mi hai dato questa carta, dicevi di aver visto un segno del nostro futuro insieme. Mi dispiace di non aver mai trovato il coraggio di realizzare quel futuro."
+
+La borsa contiene un anello di diamante con una fascia d'oro del valore di 150 mo.
+
+Una volta che i giocatori hanno recuperato gli oggetti di Varushka, la sua **ombra** svanisce. (Si veda [[#O10. Esplorare il Castello]] qui sotto per ulteriori informazioni nel caso in cui i giocatori tentino di esplorare il castello dopo che Varushka li ha lasciati.)
+# O10. Esplorare il Castello
+Se i giocatori tentano di esplorare il castello dopo essersi svegliati, ma prima che Strahd li abbia convocati, possono farlo uscendo dalla suite degli ospiti tramite la botola nascosta nel <span class="citation">K51. Guardaroba (p. 70)</span>.
+
+La botola sbuca nella Sala degli Elementi, che è in gran parte come descritta in <span class="citation">K55. Sala degli Elementi (p. 72)</span>, tranne che contiene anche una *pozione di fiato ardente* e due *pozioni di guarigione* nascoste tra le bottiglie e i barattoli. Non ci sono **streghe baroviane** nella vicina <span class="citation">K56. Calderone (p. 72)</span>, che è invece custodita da quattro **scope dell'attacco animato** appoggiate alla parete. Le scope si animano e attaccano qualsiasi intruso a vista, ma non inseguono i giocatori che fuggono oltre la Sala Familiare nella <span class="citation">K48. Scala Laterale (p. 70)</span>.
+
+La Sala Familiare è in gran parte come descritta in <span class="citation">K54. Sala Familiare (p. 71)</span>, ma attualmente non contiene **gatti**.
+
+I giocatori possono sia salire che scendere la <span class="citation">K48. Scala Laterale (p. 70)</span>. I giocatori che scendono la scalinata incontrano la **progenie vampirica** Escher, che rimane in guardia fuori dalla porta della suite degli ospiti. I giocatori che riescono a superare Escher possono continuare a esplorare il castello come descritto in **Giocatori Erranti** nel [[#O6g. Il Ponte Levatoio Rotto]] sopra.
+
+I giocatori che salgono la scala laterale emergono nel <span class="citation">K57. Vetta della Torre (p. 72)</span>. I giocatori che lo fanno possono vedere un debole bagliore cremisi che pulsa attraverso il <span class="citation">K58. Ponte (p. 73)</span> dall'interno di <span class="citation">K20. Cuore del Dolore (p. 59)</span>, sebbene il Cuore stesso non sia visibile da questa angolazione.
+
+Il Cuore del Dolore è in gran parte come descritto in <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, il Cuore è immune a tutti i danni. Inoltre, quando i giocatori entrano nella torre da <span class="citation">K58. Ponte (p. 73)</span>, leggere:
+
+<div class="description">
+<p>Un grande arco porta nelle altezze ristrette della torre, il percorso che si apre su un freddo pianerottolo di diciotto metri di larghezza. Il pianerottolo è fiancheggiato da scale a chiocciola di pietra, una che svanisce nella vetta della torre sopra, l'altra che scende nell'oscurità molto al di sotto. Dieci alabarde opache pendono da supporti sopra le scale, il loro acciaio arrugginito che brilla sinistro ad ogni lampo di fulmine.</p>
+<p>Il tremolante bagliore rosso sembra emanare da un grande e deforme oggetto che fluttua al centro cavo della torre—e mentre mettete piede sul pianerottolo, la luce si accende improvvisamente. Fluttuando a tre metri sopra il pianerottolo c'è un cuore umano di tre metri di diametro forgiato di cristallo rosso, le sue profondità che pulsano con una luce scarlatta. Una scheggia di assoluta oscurità, non più lunga di qualche centimetro, volteggia lentamente nelle sue profondità.</p>
+</div>
+
+> [!info]+ **La Scheggia di Oscurità**
+> La scheggia di oscurità è il vestigio della Divoratrice, la quarta sorella delle tre Signore dei Fani. Un tempo conosciuta come la Sognatrice, divenne invidiosa dell'amore che il Primo Popolo portava alle sue sorelle e rinunciò al suo posto tra loro, diventando la Divoratrice.
+>
+> Le Signore—la Cercatrice, la Tessitrice e la Cacciatrice—colpirono con dolore la loro sorella più giovane per proteggere il popolo della valle. Il cadavere della Divoratrice divenne il Muro dei Sussurri alla Collina di Yester, ma una dea non può morire completamente. Molti anni dopo, i maghi del Tempio d'Ambra si imbatterono nella scintilla divina della Divoratrice e la sigillarono in un sarcofago d'ambra al Tempio d'Ambra.
+>
+> La Divoratrice era una maestra della magia delle anime—e così quando Strahd venne a conoscenza della Grande Congiunzione, si rese conto che poteva usare la sua conoscenza per costruire il suo piano di fuga dalle Nebbie. Estrasse il vestigio della Divoratrice dalla sua prigione d'ambra in <span class="citation">X33d. Volta Violata (p. 192)</span> e la risigillò a forza nel Cuore del Dolore, dove poteva attingere al suo potere e alla sua conoscenza a volontà.
+>
+> La Divoratrice non è una partecipante volontaria agli schemi di Strahd. Tuttavia, mentre è intrappolata nel Cuore del Dolore, è impotente a resistere ai suoi tormenti.
+
+La torre trema e oscilla come descritto in <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Se un giocatore cade dalle scale, Strahd appare per salvarlo. Leggere:
+
+<div class="description">
+<p>Una mano pallida e artigliata scatta fuori dalle ombre e afferra la base del vostro collo, arrestando la vostra discesa. Una voce bassa e familiare mormora vicino all'orecchio: "Spero che non intendeste lasciarci così presto."</p>
+</div>
+
+La mano e la voce appartengono a Strahd, che deposita il giocatore di nuovo sulle scale o sul pianerottolo prima di unirsi a loro.
+
+Strahd appare anche se i giocatori si avvicinano a uno dei pianerottoli superiori o inferiori o si attardano sul pianerottolo più vicino al Cuore del Dolore. Indipendentemente dal motivo della sua comparsa, leggere:
+
+<div class="description">
+<p>Il fulmine lampeggia—e la forma scheletrica e pallida di Strahd si staglia davanti a voi, i suoi occhi cremisi che brillano nell'oscurità. "Ospiti fuori dalla loro suite prima dell'alba," intona con voce asciutta. "Davvero sfortunato."</p>
+</div>
+
+Dopo che i giocatori hanno avuto l'opportunità di rispondere, leggere o parafrasare:
+
+<div class="description">
+<p>Strahd si erge in tutta la sua altezza, le ombre che si avvolgono intorno alle sue spalle come un mantello. I suoi occhi guizzano dietro di voi, un secondo lampo di fulmine che illumina quattro figure umanoidi che strisciano come ragni sulle pareti di pietra sopra. "I miei figli sono così <em>terribilmente</em> affamati ultimamente." I suoi lunghi ed eleganti artigli fremono, e per un istante, le sue narici sembrano svasarsi come quelle di un pipistrello. "Dovrei permettere loro di fare un pasto di voi?"
+</div>
+
+Le quattro figure sono comuni **progenie vampiriche**.
+
+I giocatori possono convincere Strahd a tenere le progenie vampiriche dall'attaccare presentando un argomento convincente o mostrando contrizione per aver disobbedito ai suoi ordini. Se lo fanno, Strahd congeda le progenie con un gesto, facendole ritirare all'esterno della torre.
+
+Se i giocatori non fanno alcun tentativo di placare Strahd, i suoi occhi si restringono, e li avverte quietamente che sono stati invitati come ospiti nella sua casa, ma la sua pazienza non è infinita—e sarebbe pienamente nel suo diritto come signore del castello di ordinare qualsiasi punizione ritenga opportuna.
+
+Se placato, Strahd è incuriosito dal sapere cosa ha spinto i giocatori a uscire dalle loro camere, e da come abbiano aggirato Escher alla porta. (Strahd è pienamente consapevole della botola segreta nel guardaroba della suite degli ospiti, e i suoi occhi brillano di divertimento se un giocatore tenta di nascondergli la sua esistenza.)
+
+> [!info]+ **Confrontare Strahd**
+> Se confrontato riguardo all'incubo di Varushka, Strahd alza un sopracciglio e nota che i giocatori sembrano del tutto illesi. "Non è insolito che un cibo ricco causi brutti sogni, dopotutto," aggiunge serenamente. Se i giocatori continuano ad argomentare che Strahd li ha messi in pericolo, Strahd alza le spalle, aggiungendo: "Sono sicuro che crediate che ciò che pensavate di aver visto fosse reale. Questo castello ospita cose che hanno portato molte menti fuori strada."
+
+Una volta placato, Strahd indirizza i giocatori a tornare nella loro suite, notando che invierà Rahadin a prenderli a breve. Poi aggiunge: "E cercate di evitare di deviare dal percorso di nuovo. Sarebbe molto spiacevole dover riprendere questa conversazione—non siete d'accordo?" Una volta che i giocatori acconsentono, Strahd se ne va, assumendo la sua forma di nebbia tramite la sua caratteristica ***cambiaforma*** e svanendo nell'oscurità sottostante.
+# O11. Mattina a Ravenloft
+Circa un'ora dopo l'alba, Rahadin bussa alla porta della suite degli ospiti. Una volta che i giocatori aprono la porta per salutarlo, Rahadin informa freddamente i giocatori che il ponte levatoio è stato riparato, e che devono vestirsi e prepararsi alla partenza. Se i giocatori sono pronti a partire, Rahadin li conduce giù per le scale; altrimenti, li incarica di essere pronti entro i prossimi dieci minuti.
+
+Una volta che i giocatori sono pronti, Rahadin li conduce giù per la <span class="citation">K21. Scala della Torre Sud (p. 59)</span> nella <span class="citation">K9. Sala degli Ospiti (p. 56)</span>, dove Strahd li sta aspettando per incontrarli.
+
+Strahd ringrazia i giocatori per essersi uniti a lui per la cena e li informa che la sua carrozza è in attesa fuori per riportarli a casa. "Pronunciate semplicemente il nome del insediamento in cui desiderate essere portati, e i miei destrieri vi ci condurranno," consiglia.
+
+Mentre i giocatori si muovono per partire, Strahd batte una mano sulla spalla di uno di loro e sorride, sebbene nei suoi occhi non traspaia alcun calore. "Spero che abbiate imparato dalla nostra esperienza insieme che posso essere un ospite molto grazioso." Fa una breve pausa, poi aggiunge, con un pericoloso bagliore negli occhi: "Qualora i nostri percorsi si incrocino in modo meno fortunato, tuttavia, siate avvertiti che la mia benevolenza, come tutte le cose, ha la sua eventuale e inevitabile fine."
+
+Mentre Rahadin scorta i giocatori nel <span class="citation">K1. Cortile Anteriore (p. 52)</span>, trovano che la pioggia si è fermata, lasciando dietro di sé solo un grigio e tetro mattino. La carrozza nera di Strahd è in attesa per i giocatori, la porta della carrozza che si apre silenziosamente al loro avvicinarsi. (I giocatori possono ordinare ai cavalli che trainano la carrozza di portarli a Barovia, Vallaki o Krezk.)
+
+Mentre la carrozza si allontana dal cortile, i giocatori possono cogliere un ultimo sguardo delle spose di Strahd che li osservano dalla grande, frantumata, finestra a forma di luna in <span class="citation">K25. Sala delle Udienze (p. 61)</span>. Leggere quanto segue, modificandolo se Ludmilla o Volenta sono morte:
+
+<div class="description">
+<p>Mentre i cavalli cominciano a muoversi, il vostro sguardo cade sulla grande finestra rotonda che guarda sul cortile. Le scarne figure delle tre spose vampiriche di Strahd si stagliano oltre di essa, i loro volti distorte sotto dita aguzze di vetro rotto mentre osservano la carrozza allontanarsi lentamente.</p>
+<p>Mentre il maniero si rimpicciolisce dietro di voi, le catene delle due torri del portale stridono e gemono, i macchinari arrugginiti che macinano lentamente mentre sollevano il ponte levatoio verso l'alto. La carrozza svolta in una curva della strada—e il suono del ponte levatoio che si abbatte riecheggia attraverso le montagne.
+</div>
+
+***Traguardo.*** Cenare con Strahd e sconfiggere Varushka completa un traguardo narrativo. Quando i giocatori lasciano Ravenloft, assegnare a ciascun giocatore 3.500 PE. (Questo dovrebbe portare i giocatori al 7° livello.) Assegnare a ciascun giocatore ulteriori 500 PE se hanno riunito Varushka con la collana di Katarina e recuperato il nascondiglio segreto di Varushka.
